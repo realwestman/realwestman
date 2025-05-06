@@ -10,4 +10,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://dev.to/https://westman-resourcez.tebex.io/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@WestmanResourcez" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<a target="_blank" href="https://discord.gg/U5ZKKE5Hw9" style="display: inline-block;"><img src="![image](https://github.com/user-attachments/assets/0cad97b9-e2e6-489e-98a3-c48a6aaa2157)
+" alt="discord" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=realwestman&show_icons=true&locale=en&layout=compact" alt="realwestman" /></p>
